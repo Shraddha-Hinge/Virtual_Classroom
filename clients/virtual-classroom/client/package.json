@@ -1,0 +1,16 @@
+{
+    "name": "virtual-classroom-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for the virtual classroom application",
+    "scripts": {
+      "start": "react-scripts start"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.10.0",
+      "redux": "^4.2.0",
+      "react-redux": "^8.1.0",
+      "axios": "^1.3.6"
+    }
+  }
